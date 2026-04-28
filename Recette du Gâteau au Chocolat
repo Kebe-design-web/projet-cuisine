@@ -1,0 +1,22 @@
+200g de chocolat noir
+- 150g de beurre
+- 150g de sucre
+- 4 œufs
+- 80g de farine
+
+
+
+
+Faire fondre le chocolat avec le beurre.
+2. Ajouter le sucre et mélanger.
+3. Incorporer les œufs un à un.
+4. Ajouter la farine et mélanger.
+5. Cuire 25 minutes à 180°C.
+
+Bon appétit !
+En bas clique "Commit changes" puis "Commit directly to main" → "Commit changes"
+
+Dans le Terminal, récupère le fichier
+bashgit pull origin main
+ls
+Tu devrais voir gateau.md apparaître ! Dis-moi ce que tu vois !
